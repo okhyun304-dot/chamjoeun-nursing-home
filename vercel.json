@@ -1,0 +1,13 @@
+{
+  "redirects": [
+    { "source": "/index", "destination": "/", "permanent": true },
+    { "source": "/Company-Overview", "destination": "/#director", "permanent": true },
+    { "source": "/Contact", "destination": "/#about", "permanent": true },
+    { "source": "/Careers", "destination": "/#program", "permanent": true },
+    { "source": "/Service-Plan", "destination": "/#blog", "permanent": true },
+    { "source": "/company-overview", "destination": "/#director", "permanent": true },
+    { "source": "/contact", "destination": "/#about", "permanent": true },
+    { "source": "/careers", "destination": "/#program", "permanent": true },
+    { "source": "/service-plan", "destination": "/#blog", "permanent": true }
+  ]
+}
